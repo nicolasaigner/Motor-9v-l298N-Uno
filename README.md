@@ -1,4 +1,4 @@
-# Motor-9v-l298N-Uno
+# Motor 9v com Ponte H L298N e Arduino Uno (Controle de direção, velocidade e tempo de rotação)
   Controle de velocidade e rotação de um motor DC 9V (Motor de impressora, no meu caso).
   Está sendo utilizado apenas um motor na saída B.
 
